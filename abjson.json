@@ -1,0 +1,26 @@
+{
+    "waitingPanel": 3,
+    "waitingCeo": 4,
+    "interviewedTotal": 45,
+    "interviewedToday": 21,
+    "overallGrades": {
+        "c": 3,
+        "b": 6,
+        "bPlus": 8,
+        "aMinus": 6,
+        "a": 9,
+        "aPlus": 13,
+        "listener": 14,
+        "notGraded": 21
+    },
+    "todaysGrades": {
+        "c": 1,
+        "b": 3,
+        "bPlus": 2,
+        "aMinus": 4,
+        "a": 6,
+        "aPlus": 5,
+        "listener": 9,
+        "notGraded": 11
+    }
+}
